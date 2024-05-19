@@ -1,11 +1,13 @@
 <h1 align="center">Olá! Eu sou Yuri Duarte</h1>
+
+<!--<h1 align="center">Olá! Eu sou Yuri Duarte</h1>
 <h3 align="center">Eu sou o cara</h3>
 
 - 🔭 I’m currently working on **WEB II**
 
 - 🌱 I’m currently learning **React, Inteligência Artificial**
 
-- 📫 How to reach me **e-mail@hurtm.pom**
+- 📫 How to reach me **sill not put**
 
 - 📄 Know about my experiences [Link pro RESUME](Link pro RESUME)
 
