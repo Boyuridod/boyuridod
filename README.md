@@ -1,9 +1,14 @@
 <h1 align="center">Olá 👋, Sou Yuri Duarte</h1>
+<!-- TODO Melhorar esta bio -->
 <h3 align="center">Gosto de estar sempre criando coisas novas</h3>
+
+<!-- TODO Melhorar essas formas de contato -->
 
 - 📫 Endereço de e-mail: **yuridsd@hotmail.com**
 
-- 📄 [Acesse meu currículo](https://www.canva.com/design/DAGRP0Xy7l8/FyADfSUPWQsRMdXus7WLtQ/edit?utm_content=DAGRP0Xy7l8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [📄 Acesse meu currículo](https://www.canva.com/design/DAGRP0Xy7l8/FyADfSUPWQsRMdXus7WLtQ/edit?utm_content=DAGRP0Xy7l8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<!-- TODO Melhorar algumas imagens que estão ruins -->
 
 <h3 align="center">Experiência:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -47,7 +52,7 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs"
             width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
         href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
@@ -80,6 +85,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
             alt="https://codeforces.com/profile/boyuridod" height="30" width="40" /></a>
 </p>
+
+<!-- TODO Mudar para modo escuro -->
 
 <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=boyuridod&show_icons=true&locale=en&layout=compact"
