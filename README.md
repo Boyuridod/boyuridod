@@ -1,4 +1,4 @@
-<h1>👨‍💻 Olá, Sou o Yuri Duarte</h1>
+<h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
 <p>Estudante de Engenharia de Computação com interesse em desenvolvimento de software, sistemas embarcados e
     maratonas de programação.</p>
