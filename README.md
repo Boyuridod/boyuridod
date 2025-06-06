@@ -43,6 +43,7 @@
 
 <hr />
 
+<!-- TODO Colocar mais projetos aqui e o link para eles -->
 <h2>📂 Projetos Pessoais</h2>
 <ul>
     <li><strong>☕ Cheirinho de Café:</strong> App Android para gerenciamento de cafés dentro de uma fábrica.</li>
