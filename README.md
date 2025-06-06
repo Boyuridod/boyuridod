@@ -1,101 +1,98 @@
-<h1 align="center">Olá 👋, Sou Yuri Duarte</h1>
-<!-- TODO Melhorar esta bio -->
-<h3 align="center">Gosto de estar sempre criando coisas novas</h3>
+<h1>👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
-<!-- TODO Melhorar essas formas de contato -->
+<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de software, sistemas embarcados e
+    maratonas de programação.</p>
 
-- 📫 Endereço de e-mail: **yuridsd@hotmail.com**
+<hr />
 
-- [📄 Acesse meu currículo](https://www.canva.com/design/DAGRP0Xy7l8/FyADfSUPWQsRMdXus7WLtQ/edit?utm_content=DAGRP0Xy7l8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<h2>📫 Contato</h2>
+<ul>
+    <li>📧 <strong>E-mail: </strong> <a href="yuridsd@hotmail.com">yuridsd@hotmail.com</a></li>
+    <li>🔗 <strong>LinkedIn: </strong> <a href="https://www.linkedin.com/in/yuri-duarte-050581208/">Yuri Duarte</a>
+    </li>
+    <li>💻 <strong>GitHub: </strong> <a href="https://github.com/Boyuridod">Boyuridod</a></li>
+    <li><strong><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+                alt="https://codeforces.com/profile/boyuridod" height="20" width="20" /> CodeForces: </strong><a
+            href="https://codeforces.com/profile/boyuridod">Boyuridod</a></li>
+    <li><strong><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                alt="" height="20" width="20" /> Instagram: </strong><a
+            href="https://instagram.com/yuridsduarte">@yuridsduarte</a></li>
+    <li>📍 <strong>Localização:</strong> Uberaba – Minas Gerais, Brasil</li>
+</ul>
 
-<!-- TODO Melhorar algumas imagens que estão ruins -->
+<hr />
 
-<h3 align="center">Experiência:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"
-            height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" alt="nestjs"
-            width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
-            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> </p>
+<h2>🎓 Formação Acadêmica</h2>
+<p><strong>Engenharia de Computação</strong><br />
+    Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico (IFTM CUPT)<br />
+    📅 Início: 2021 | Previsão de conclusão: 2025</p>
 
-<h3 align="center">Social:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/yuri-duarte-050581208/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/yuri-duarte-050581208/" height="30" width="40" /></a>
-    <a href="https://instagram.com/yuridsduarte" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="@yuridsduarte" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/boyuridod" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="https://codeforces.com/profile/boyuridod" height="30" width="40" /></a>
-</p>
+<hr />
 
+<h2>🧠 Habilidades Técnicas</h2>
+<ul>
+    <li><strong>Linguagens de Programação:</strong> C, C++, Java, Python, Kotlin, JavaScript, TypeScript, Dart</li>
+    <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin, Futter</li>
+    <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JS, TS, Node, React, NestJS, NextJS</li>
+    <li><strong>Banco de Dados:</strong> PostgreSQL, Firebase, SQLite, MySQL, MongoDB</li>
+    <li><strong>Sistemas Embarcados:</strong> Arduino, NODE MCU ESP8266, PIC</li>
+    <li><strong>Ferramentas:</strong> Git, GitHub, Docker, ThunderClient, Postman, Figma, Android Studio, VS Code, MPLAB X</li>
+</ul>
+
+<hr />
+
+<h2>📂 Projetos Pessoais</h2>
+<ul>
+    <li><strong>☕ Cheirinho de Café:</strong> App Android para gerenciamento de cafés dentro de uma fábrica.</li>
+    <li><strong>✈️ Duarte Viagens:</strong> App Android para simulação de planejamento de viagens.</li>
+</ul>
+
+<hr />
+
+<h2>🏆 Atividades e Competições</h2>
+<ul>
+    <li>Participação em maratonas de programação (ICPC, SBC)</li>
+    <li>🥇 Bi-Campeçao regional de Maratonas de Programação e duas competições nacionais</li>
+    <li>Participação em Hackathons</li>
+    <li>Desenvolvimento de soluções para problemas algorítmicos no Codeforces, Virtual Judge, etc.</li>
+    <li>Vice campeão do <b>#1 Hacka Biofy<b></li>
+</ul>
+
+<hr />
+
+<h2>📜 Certificações</h2>
+<ul>
+    <li>Programador de Sistemas – IFTM Ituiutaba – 2020/1</li>
+</ul>
+
+<hr />
+
+<h2>💬 Idiomas</h2>
+<ul>
+    <li>Português: Nativo</li>
+    <li>Inglês: Fluente</li>
+</ul>
+
+<hr />
+
+<h2>📄 Licença</h2>
+<p>Este currículo é de uso pessoal e acadêmico.<br />
+    Fique à vontade para se inspirar, mas valorize sua própria trajetória 🚀</p>
+
+<hr />
+
+<h2>Github</h2>
 <!-- TODO Mudar para modo escuro -->
 
 <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=boyuridod&show_icons=true&locale=en&layout=compact"
         alt="boyuridod" /></p>
 
-<h3 align="center">Meu GitHub:</h3>
-
 <p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=boyuridod&show_icons=true&locale=en" alt="boyuridod" />
+        src="https://github-readme-stats.vercel.app/api?username=boyuridod&show_icons=true&locale=en"
+        alt="boyuridod" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
