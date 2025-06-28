@@ -46,9 +46,11 @@
 <!-- TODO Colocar mais projetos aqui e o link para eles -->
 <h2>📂 Projetos Pessoais</h2>
 <ul>
-    <li><strong>☕ Cheirinho de Café:</strong> App Android para gerenciamento de cafés dentro de uma fábrica.</li>
-    <li><strong>✈️ Duarte Viagens:</strong> App Android para simulação de planejamento de viagens.</li>
+    <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong> App Android para gerenciamento de cafés dentro de uma fábrica.</li>
+    <li><strong>🔎 <a href="https://github.com/Boyuridod/AnalisadorDeCPF" target="_blank">AnalisadorDeCPF</a>:</strong> API e App para validar CPFs</li>
+    <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong> App Android para simulação de planejamento de viagens.</li>
 </ul>
+
 
 <hr />
 
