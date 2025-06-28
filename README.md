@@ -47,7 +47,7 @@
 <h2>📂 Projetos Pessoais</h2>
 <ul>
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
-        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT
+        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT.
     </li>
     <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong>
         App Android para gerenciamento de cafés dentro de uma fábrica.
@@ -64,8 +64,8 @@
 
 <h2>🎮 Meus jogos</h2>
 <ul>
-    <li><strong>❌⭕ <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">Jogo da Velha</a>:</strong>
-        Jogo da velha feito em python
+    <li><strong>❌⭕ <a href="https://github.com/Boyuridod/JogoDaVelhaEmPython" target="_blank">Jogo da Velha</a>:</strong>
+        Jogo da velha feito em python.
     </li>
 </ul>
 
