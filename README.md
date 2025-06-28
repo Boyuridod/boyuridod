@@ -46,11 +46,28 @@
 <!-- TODO Colocar mais projetos aqui e o link para eles -->
 <h2>📂 Projetos Pessoais</h2>
 <ul>
-    <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong> App Android para gerenciamento de cafés dentro de uma fábrica.</li>
-    <li><strong>🔎 <a href="https://github.com/Boyuridod/AnalisadorDeCPF" target="_blank">AnalisadorDeCPF</a>:</strong> API e App para validar CPFs</li>
-    <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong> App Android para simulação de planejamento de viagens.</li>
+    <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
+        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT
+    </li>
+    <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong>
+        App Android para gerenciamento de cafés dentro de uma fábrica.
+    </li>
+    <li><strong>🔎 <a href="https://github.com/Boyuridod/AnalisadorDeCPF" target="_blank">AnalisadorDeCPF</a>:</strong>
+        API e App para validar CPFs
+    </li>
+    <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong>
+        App Android para simulação de planejamento de viagens.
+    </li>
 </ul>
 
+<hr />
+
+<h2>🎮 Meus jogos</h2>
+<ul>
+    <li><strong>❌⭕ <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">Jogo da Velha</a>:</strong>
+        Jogo da velha feito em python
+    </li>
+</ul>
 
 <hr />
 
