@@ -1,5 +1,15 @@
 <h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
+<!-- TODO  Resumo profissional ausente ou muito genérico
+Inclua um parágrafo inicial com:
+
+Sua área de atuação ou objetivo
+
+Um diferencial seu (ex: rápido aprendizado, foco em performance, etc.)
+
+Exemplo:
+
+Desenvolvedor júnior com foco em aplicações web e mobile. Experiência prática com React, Kotlin e Firebase. Busco oportunidades para aplicar conhecimentos em soluções reais e aprender com times experientes. -->
 <p>Estudante de Engenharia de Computação com interesse em desenvolvimento de software, sistemas embarcados e
     maratonas de programação.</p>
 
@@ -24,6 +34,42 @@
 
 <hr />
 
+<!-- Experiência profissional
+Se você não tem experiências formais:
+
+Use estágios, freelas ou contribuições em projetos.
+
+Pode também descrever envolvimento em hackathons, TCCs, voluntariados técnicos etc.
+✅ Exemplo 1: Experiência real com tecnologia
+Tech Solutions LTDA – Estagiário em Desenvolvimento Web
+São Paulo, SP — Mar/2024 a Dez/2024
+
+Auxiliei no desenvolvimento de aplicações web com React e Node.js
+
+Automatizei tarefas de build usando Webpack
+
+Contribuí com testes unitários usando Jest, aumentando cobertura em 25%
+
+✅ Exemplo 2: Freelancer / Projeto pessoal com cliente
+Projeto Freelance – Site para Loja de Roupas “ModaFit”
+Remoto — Jan/2024 a Fev/2024
+
+Desenvolvi site responsivo em HTML, CSS, JavaScript e integração com WhatsApp
+
+Entreguei o projeto em 10 dias com feedback positivo do cliente
+
+Otimizei desempenho e carregamento de imagens
+
+✅ Exemplo 3: Voluntariado ou projeto acadêmico
+Voluntário – Plataforma de doações para ONG local
+Belo Horizonte, MG — Ago/2023 a Out/2023
+
+Trabalhei em equipe com 3 colegas no back-end da aplicação
+
+Usei Firebase Realtime Database e autenticação com e-mail
+
+Projeto apresentado em feira de tecnologia da escola -->
+
 <h2>🎓 Formação Acadêmica</h2>
 <p><strong>Engenharia de Computação</strong><br />
     Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico (IFTM CUPT)<br />
@@ -44,6 +90,17 @@
 <hr />
 
 <!-- TODO Colocar mais projetos aqui e o link para eles -->
+<!-- TODO Faltam detalhes nos projetos
+Se você menciona GitHub ou projetos, é essencial:
+
+Explicar qual problema o projeto resolve
+
+Listar tecnologias usadas
+
+Mencionar se teve trabalho em equipe, prazos, desafios superados
+
+💡 Exemplo:
+App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRUD. Front-end com React, autenticação com Firebase Auth e armazenamento em Firestore. -->
 <h2>📂 Projetos Pessoais</h2>
 <ul>
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
@@ -118,3 +175,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=boyuridod" alt="boyuridod" /></a> </p>
+
+<!-- TODO Visual e design
+Se puder, adicione ícones sutis para redes, skills e contatos (LinkedIn, GitHub).
+
+Uma cor de destaque (azul escuro, cinza ou verde escuro) pode modernizar sem comprometer a sobriedade.
+
+Use bullet points em vez de texto corrido para listas. -->
