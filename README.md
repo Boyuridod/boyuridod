@@ -17,7 +17,7 @@ Desenvolvedor júnior com foco em aplicações web e mobile. Experiência práti
 
 <h2>📫 Contato</h2>
 <ul>
-    <li>📧 <strong>E-mail: </strong> <a href="yuridsd@hotmail.com">yuridsd@hotmail.com</a></li>
+    <li>📧 <strong>E-mail: </strong> <a href="mailto:yuridsd@hotmail.com">yuridsd@hotmail.com</a></li>
     <li>🔗 <strong>LinkedIn: </strong> <a href="https://www.linkedin.com/in/yuri-duarte-050581208/">Yuri Duarte</a>
     </li>
     <li>💻 <strong>GitHub: </strong> <a href="https://github.com/Boyuridod">Boyuridod</a></li>
