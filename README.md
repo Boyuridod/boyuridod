@@ -115,6 +115,9 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
     <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong>
         App Android para simulação de planejamento de viagens.
     </li>
+    <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Página da SerFrontend</a>:</strong>
+        Site que fiz como desafio de HTML e CSS do curso na SerFrontend.
+    </li>
 </ul>
 
 <hr />
