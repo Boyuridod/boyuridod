@@ -80,7 +80,7 @@ Projeto apresentado em feira de tecnologia da escola -->
 <h2>🧠 Habilidades Técnicas</h2>
 <ul>
     <li><strong>Linguagens de Programação:</strong> C, C++, Java, Python, Kotlin, JavaScript, TypeScript, Dart, Assembly;</li>
-    <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin, Futter;</li>
+    <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin e Futter;</li>
     <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JS, TS, Node, React, NestJS, NextJS;</li>
     <li><strong>Banco de Dados:</strong> PostgreSQL, Firebase, SQLite, MySQL, MongoDB;</li>
     <li><strong>Sistemas Embarcados:</strong> Arduino, NODE MCU ESP8266, PIC;</li>
