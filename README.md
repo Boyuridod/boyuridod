@@ -118,6 +118,9 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
     <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Página da SerFrontend</a>:</strong>
         Site que fiz como desafio de HTML e CSS do curso na SerFrontend.
     </li>
+    <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Página de selecionar um plano de assinatura</a>:</strong>
+        O objetivo foi criar uma página de apresentação de planos de serviço, utilizando apenas HTML e CSS, aplicando conceitos de layout em flexbox, cores, tipografia e botões de ação.
+    </li>
 </ul>
 
 <hr />
