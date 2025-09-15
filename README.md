@@ -134,7 +134,7 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
 <h2>🏆 Atividades e Competições</h2>
 <ul>
     <li>Participação em maratonas de programação (ICPC, SBC)</li>
-    <li>🥇 Tri-Campeçao regional de Maratonas de Programação e três participações em finais nacionais</li>
+    <li>🥇 Tri-Campeão regional de Maratonas de Programação e três participações em finais nacionais</li>
     <li>Participação em Hackathons</li>
     <li>Desenvolvimento de soluções para problemas algorítmicos no Codeforces, Virtual Judge, etc.</li>
     <li>Vice campeão do <b>#1 HackaBiofy<b></li>
