@@ -104,22 +104,25 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
 <h2>📂 Projetos Pessoais</h2>
 <ul>
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
-        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT.
+        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
     </li>
     <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong>
-        App Android para gerenciamento de cafés dentro de uma fábrica.
+        App Android para gerenciamento de cafés dentro de uma fábrica;
     </li>
     <li><strong>🔎 <a href="https://github.com/Boyuridod/AnalisadorDeCPF" target="_blank">AnalisadorDeCPF</a>:</strong>
-        API e App para validar CPFs
+        API e App para validar CPFs;
     </li>
     <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong>
-        App Android para simulação de planejamento de viagens.
+        App Android para simulação de planejamento de viagens;
     </li>
     <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Página da SerFrontend</a>:</strong>
-        Site que fiz como desafio de HTML e CSS do curso na SerFrontend.
+        Site que fiz como desafio de HTML e CSS do curso na SerFrontend;
     </li>
     <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Página de selecionar um plano de assinatura</a>:</strong>
-        O objetivo foi criar uma página de apresentação de planos de serviço, utilizando apenas HTML e CSS, aplicando conceitos de layout em flexbox, cores, tipografia e botões de ação.
+        O objetivo foi criar uma página de apresentação de planos de serviço, utilizando apenas HTML e CSS, aplicando conceitos de layout em flexbox, cores, tipografia e botões de ação;
+    </li>
+    <li><strong>👗 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-4-ModaOra" target="_blank">Projeto Moda Ora</a>:</strong>
+        Esse desafio trouxe a experiência de montar uma **landing page completa** para uma marca de moda utilizando apenas **HTML e CSS**.
     </li>
 </ul>
 
