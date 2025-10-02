@@ -104,7 +104,10 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
 <h2>📂 Projetos Pessoais</h2>
 <ul>
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
-        Aplicativo Descktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
+        Aplicativo Desktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
+    </li>
+    <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Site Range Hotels</a>:</strong>
+        Este projeto faz parte do curso SerFrontend do meu estágio na SULTS e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela.
     </li>
     <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong>
         App Android para gerenciamento de cafés dentro de uma fábrica;
