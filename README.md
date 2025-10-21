@@ -128,7 +128,10 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
         Esse desafio trouxe a experiência de montar uma <strong>landing page completa</strong> para uma marca de moda utilizando apenas <strong>HTML e CSS</strong>;
     </li>
     <li><strong>🏫 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-5-Aprenser" target="_blank">Projeto Aprenser</a>:</strong>
-        O objetivo foi criar um site para a escola fictícia Aprenser, aplicando conceitos de HTML e CSS com foco em layout e tipografia (Ainda não possui responsividade).
+        O objetivo foi criar um site para a escola fictícia Aprenser, aplicando conceitos de HTML e CSS com foco em layout e tipografia (Ainda não possui responsividade);
+    </li>
+    <li><strong>🧩 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-8-Componentes" target="_blank">Projeto meus componentes</a>:</strong>
+        O objetivo deste projeto é praticar a criação e estilização de componentes utilizando apenas HTML e CSS, explorando diferentes elementos e boas práticas de estruturação visual.
     </li>
 </ul>
 
