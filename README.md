@@ -106,22 +106,22 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
         Aplicativo Desktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
     </li>
-    <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Site Range Hotels</a>:</strong>
+    <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Projeto Site Range Hotels</a>:</strong>
         Este projeto faz parte do curso SerFrontend do meu estágio na SULTS e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela.
     </li>
-    <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Cheirinho de Café</a>:</strong>
+    <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Projeto Cheirinho de Café</a>:</strong>
         App Android para gerenciamento de cafés dentro de uma fábrica;
     </li>
     <li><strong>🔎 <a href="https://github.com/Boyuridod/AnalisadorDeCPF" target="_blank">AnalisadorDeCPF</a>:</strong>
         API e App para validar CPFs;
     </li>
-    <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Duarte Viagens</a>:</strong>
+    <li><strong>✈️ <a href="https://github.com/Boyuridod/DuarteViagens" target="_blank">Projeto Duarte Viagens</a>:</strong>
         App Android para simulação de planejamento de viagens;
     </li>
-    <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Página da SerFrontend</a>:</strong>
+    <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Projeto página da SerFrontend</a>:</strong>
         Site que fiz como desafio de HTML e CSS do curso na SerFrontend;
     </li>
-    <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Página de selecionar um plano de assinatura</a>:</strong>
+    <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Projeto página de selecionar um plano de assinatura</a>:</strong>
         O objetivo foi criar uma página de apresentação de planos de serviço, utilizando apenas HTML e CSS, aplicando conceitos de layout em flexbox, cores, tipografia e botões de ação;
     </li>
     <li><strong>👗 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-4-ModaOra" target="_blank">Projeto Moda Ora</a>:</strong>
