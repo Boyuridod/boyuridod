@@ -1,19 +1,8 @@
 <h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
-<!-- TODO  Resumo profissional ausente ou muito genérico
-Inclua um parágrafo inicial com:
+<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de aplicações web, descktop e mobile, sistemas embarcados e maratonas de programação.</p>
 
-Sua área de atuação ou objetivo
-
-Um diferencial seu (ex: rápido aprendizado, foco em performance, etc.)
-
-Exemplo:
-
-Desenvolvedor júnior com foco em aplicações web e mobile. Experiência prática com React, Kotlin e Firebase. Busco oportunidades para aplicar conhecimentos em soluções reais e aprender com times experientes. -->
-<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de software, sistemas embarcados e
-    maratonas de programação.</p>
-
-<hr />
+<hr/>
 
 <h2>📫 Contato</h2>
 <ul>
@@ -22,15 +11,22 @@ Desenvolvedor júnior com foco em aplicações web e mobile. Experiência práti
     </li>
     <li>💻 <strong>GitHub: </strong> <a href="https://github.com/Boyuridod">Boyuridod</a></li>
     <li><strong><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+                src="Assets/codeforces-icon-57x57.png"
                 alt="https://codeforces.com/profile/boyuridod" height="20" width="20" /> CodeForces: </strong><a
             href="https://codeforces.com/profile/boyuridod">Boyuridod</a></li>
     <li><strong><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                src="Assets/instagram-1-svgrepo-com.svg"
                 alt="" height="20" width="20" /> Instagram: </strong><a
             href="https://instagram.com/yuridsduarte">@yuridsduarte</a></li>
     <li>📍 <strong>Localização:</strong> Uberaba – Minas Gerais, Brasil</li>
 </ul>
+
+<hr/>
+
+<h2>🎓 Formação Acadêmica</h2>
+<p><strong>Engenharia de Computação</strong><br />
+    Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico (IFTM CUPT)<br />
+    📅 Início: 2021 | Previsão de conclusão: 2025</p>
 
 <hr />
 
@@ -70,10 +66,18 @@ Usei Firebase Realtime Database e autenticação com e-mail
 
 Projeto apresentado em feira de tecnologia da escola -->
 
-<h2>🎓 Formação Acadêmica</h2>
+<!-- <h2>🏢 Experiência Profissional</h2>
 <p><strong>Engenharia de Computação</strong><br />
     Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico (IFTM CUPT)<br />
     📅 Início: 2021 | Previsão de conclusão: 2025</p>
+
+<hr /> -->
+
+<h2>💬 Idiomas</h2>
+<ul>
+    <li>Português: Nativo</li>
+    <li>Inglês: Fluente</li>
+</ul>
 
 <hr />
 
@@ -83,7 +87,7 @@ Projeto apresentado em feira de tecnologia da escola -->
     <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin e Futter;</li>
     <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JS, TS, Node, React, NestJS, NextJS;</li>
     <li><strong>Banco de Dados:</strong> PostgreSQL, Firebase, SQLite, MySQL, MongoDB;</li>
-    <li><strong>Sistemas Embarcados:</strong> Arduino, NODE MCU ESP8266, PIC;</li>
+    <li><strong>Sistemas Embarcados:</strong> Arduino, NODE MCU ESP8266, PIC, Ladder;</li>
     <li><strong>Ferramentas:</strong> Git, GitHub, Docker, ThunderClient, Postman, Figma, Android Studio, VS Code, MPLAB X, ArduinoIDE, Microsoft Excel, Google Drive.</li>
 </ul>
 
@@ -161,14 +165,6 @@ App de lista de tarefas (React + Firebase) – projeto pessoal para praticar CRU
 <h2>📜 Certificações</h2>
 <ul>
     <li>Programador de Sistemas – IFTM Ituiutaba – 2020/1</li>
-</ul>
-
-<hr />
-
-<h2>💬 Idiomas</h2>
-<ul>
-    <li>Português: Nativo</li>
-    <li>Inglês: Fluente</li>
 </ul>
 
 <hr />
