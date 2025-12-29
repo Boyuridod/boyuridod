@@ -110,9 +110,9 @@
 <!-- <h2>📜 Certificações</h2>
 <ul>
     <li>Programador de Sistemas – IFTM Ituiutaba – 2020/1</li>
-</ul> -->
+</ul>
 
-<hr />
+<hr /> -->
 
 <h2>📄 Licença</h2>
 <p>Este currículo é de uso pessoal e acadêmico.<br />
