@@ -82,6 +82,9 @@
     <li><strong>🧩 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-8-Componentes" target="_blank">Projeto meus componentes</a>:</strong>
         O objetivo deste projeto é praticar a criação e estilização de componentes utilizando apenas HTML e CSS, explorando diferentes elementos e boas práticas de estruturação visual.
     </li>
+    <li><strong>🏦 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-3-conta-bancaria" target="_blank">Conta bancária usando POO</a>:</strong>
+        Simulação de um aplicativo de conta bancária simples, aplicando conceitos fundamentais de Programação Orientada a Objetos em Java. Ele permite fazer saques e depósitos na conta.
+    </li>
 </ul>
 
 <hr />
