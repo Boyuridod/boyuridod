@@ -85,6 +85,9 @@
     <li><strong>🏦 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-3-conta-bancaria" target="_blank">Conta bancária usando POO</a>:</strong>
         Simulação de um aplicativo de conta bancária simples, aplicando conceitos fundamentais de Programação Orientada a Objetos em Java. Ele permite fazer saques e depósitos na conta.
     </li>
+    <li><strong>👨‍💼 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-4-Lista-Funcionarios" target="_blank">Sistema simples de gerenciamento de funcionários</a>:</strong>
+        O objetivo deste aplicativo em Java é simular um sistema simples de gerenciamento de funcionários, permitindo o controle básico de dados como ID, nome e salário
+    </li>
 </ul>
 
 <hr />
