@@ -88,6 +88,9 @@
     <li><strong>👨‍💼 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-4-Lista-Funcionarios" target="_blank">Sistema simples de gerenciamento de funcionários</a>:</strong>
         O objetivo deste aplicativo em Java é simular um sistema simples de gerenciamento de funcionários, permitindo o controle básico de dados como ID, nome e salário
     </li>
+    <li><strong>🛒 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-5-Venda-de-Produtos" target="_blank">Sistema simples de cadastro e exibição de produtos</a>:</strong>
+        O objetivo deste aplicativo é simular um sistema de cadastro e exibição de produtos, aplicando conceitos importantes de Herança e Polimorfismo em Java.
+    </li>
 </ul>
 
 <hr />
