@@ -55,8 +55,8 @@
     <li><strong>📒🖋️📝 <a href="https://github.com/Boyuridod/ReferenciaCerta" target="_blank">ReferenciaCerta</a>:</strong>
         Aplicativo Desktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
     </li>
-    <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Projeto Site Range Hotels</a>:</strong>
-        Este projeto faz parte do curso SerFrontend do meu estágio na SULTS e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela.
+    <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Projeto Site Range Hotels</a>:</strong>
+        Este projeto faz parte do curso SerFrontend e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela.
     </li>
     <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Projeto Cheirinho de Café</a>:</strong>
         App Android para gerenciamento de cafés dentro de uma fábrica;
@@ -70,25 +70,25 @@
     <li><strong>🖥️ <a href="https://github.com/Boyuridod/Estagio-Cursos-Projeto-1-SerFrontend" target="_blank">Projeto página da SerFrontend</a>:</strong>
         Site que fiz como desafio de HTML e CSS do curso na SerFrontend;
     </li>
-    <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Projeto página de selecionar um plano de assinatura</a>:</strong>
+    <li><strong>💵 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-3-Escolha-Seu-Plano" target="_blank">Projeto página de selecionar um plano de assinatura</a>:</strong>
         O objetivo foi criar uma página de apresentação de planos de serviço, utilizando apenas HTML e CSS, aplicando conceitos de layout em flexbox, cores, tipografia e botões de ação;
     </li>
-    <li><strong>👗 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-4-ModaOra" target="_blank">Projeto Moda Ora</a>:</strong>
+    <li><strong>👗 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-4-ModaOra" target="_blank">Projeto Moda Ora</a>:</strong>
         Esse desafio trouxe a experiência de montar uma <strong>landing page completa</strong> para uma marca de moda utilizando apenas <strong>HTML e CSS</strong>;
     </li>
-    <li><strong>🏫 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-5-Aprenser" target="_blank">Projeto Aprenser</a>:</strong>
+    <li><strong>🏫 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-5-Aprenser" target="_blank">Projeto Aprenser</a>:</strong>
         O objetivo foi criar um site para a escola fictícia Aprenser, aplicando conceitos de HTML e CSS com foco em layout e tipografia (Ainda não possui responsividade);
     </li>
-    <li><strong>🧩 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-SerFrontend-Projeto-8-Componentes" target="_blank">Projeto meus componentes</a>:</strong>
+    <li><strong>🧩 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-8-Componentes" target="_blank">Projeto meus componentes</a>:</strong>
         O objetivo deste projeto é praticar a criação e estilização de componentes utilizando apenas HTML e CSS, explorando diferentes elementos e boas práticas de estruturação visual.
     </li>
-    <li><strong>🏦 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-3-conta-bancaria" target="_blank">Conta bancária usando POO</a>:</strong>
+    <li><strong>🏦 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-3-conta-bancaria" target="_blank">Conta bancária usando POO</a>:</strong>
         Simulação de um aplicativo de conta bancária simples, aplicando conceitos fundamentais de Programação Orientada a Objetos em Java. Ele permite fazer saques e depósitos na conta.
     </li>
-    <li><strong>👨‍💼 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-4-Lista-Funcionarios" target="_blank">Sistema simples de gerenciamento de funcionários</a>:</strong>
+    <li><strong>👨‍💼 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-4-Lista-Funcionarios" target="_blank">Sistema simples de gerenciamento de funcionários</a>:</strong>
         O objetivo deste aplicativo em Java é simular um sistema simples de gerenciamento de funcionários, permitindo o controle básico de dados como ID, nome e salário
     </li>
-    <li><strong>🛒 <a href="https://github.com/Boyuridod/Estagio-SULTS-Curso-Java-Exercicio-5-Venda-de-Produtos" target="_blank">Sistema simples de cadastro e exibição de produtos</a>:</strong>
+    <li><strong>🛒 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-5-Venda-de-Produtos" target="_blank">Sistema simples de cadastro e exibição de produtos</a>:</strong>
         O objetivo deste aplicativo é simular um sistema de cadastro e exibição de produtos, aplicando conceitos importantes de Herança e Polimorfismo em Java.
     </li>
 </ul>
