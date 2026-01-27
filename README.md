@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
-<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de aplicações web, descktop e mobile, sistemas embarcados e maratonas de programação.</p>
+<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de aplicações web, desktop e mobile, sistemas embarcados e maratonas de programação.</p>
 
 <hr/>
 
