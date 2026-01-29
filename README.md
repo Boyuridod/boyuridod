@@ -91,6 +91,9 @@
     <li><strong>🛒 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-5-Venda-de-Produtos" target="_blank">Sistema simples de cadastro e exibição de produtos</a>:</strong>
         O objetivo deste aplicativo é simular um sistema de cadastro e exibição de produtos, aplicando conceitos importantes de Herança e Polimorfismo em Java.
     </li>
+    <li><strong>🛠️ <a href="https://github.com/Boyuridod/Estagio-1-Java-Exercicio-Sistema-Gestao-Servicos" target="_blank">Sistema de gestão de serviços</a>:</strong>
+        Simulação de um sistema de gestão de serviços, permitindo o cadastro, consulta e remoção de serviços, utilizando Java + JPA (Hibernate) e aplicando conceitos avançados de POO. Toda a aplicação funciona via console, com persistência dos dados em banco de dados através do EntityManager.
+    </li>
 </ul>
 
 <hr />
