@@ -41,11 +41,11 @@
 <h2>🧠 Habilidades Técnicas</h2>
 <ul>
     <li><strong>Linguagens de Programação:</strong> C, C++, Java, Python, Kotlin, JavaScript, TypeScript, Dart, Assembly;</li>
-    <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin e Futter;</li>
+    <li><strong>Desenvolvimento Mobile:</strong> Android com Kotlin e Flutter;</li>
     <li><strong>Desenvolvimento Web:</strong> HTML, CSS, JS, TS, Node, React, NestJS, NextJS;</li>
     <li><strong>Banco de Dados:</strong> PostgreSQL, Firebase, SQLite, MySQL, MongoDB;</li>
-    <li><strong>Sistemas Embarcados:</strong> Arduino, NODE MCU ESP8266, PIC, Ladder;</li>
-    <li><strong>Ferramentas:</strong> Git, GitHub, Docker, ThunderClient, Postman, Figma, Android Studio, VS Code, MPLAB X, ArduinoIDE, Microsoft Excel, Google Drive.</li>
+    <li><strong>Sistemas Embarcados:</strong> Arduino, NodeMCU ESP8266, PIC, Ladder;</li>
+    <li><strong>Ferramentas:</strong> Git, GitHub, Docker, ThunderClient, Postman, Figma, Android Studio, VS Code, MPLAB X, Arduino IDE, Microsoft Excel, Google Drive.</li>
 </ul>
 
 <hr />
