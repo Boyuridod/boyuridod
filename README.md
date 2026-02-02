@@ -94,7 +94,7 @@
     <li><strong>🗄️ <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-JDBC-Gestao-de-estoque" target="_blank">Sistema de gestão de estoque</a>:</strong>
         Sistema de gestão de estoque desenvolvido em Java com JDBC, focado em operações básicas de persistência de dados, organização em camadas e boas práticas de acesso a banco relacional.
     </li>
-    <li><strong>🛠️ <a href="[https://github.com/Boyuridod/Estagio-1-Java-Exercicio-Sistema-Gestao-Servicos](https://github.com/Boyuridod/Estagio-1-Java-Exercicio-JPA-Hibernate-Sistema-Gestao-Servicos)" target="_blank">Sistema de gestão de serviços</a>:</strong>
+    <li><strong>🛠️ <a href="https://github.com/Boyuridod/Estagio-1-Java-Exercicio-JPA-Hibernate-Sistema-Gestao-Servicos" target="_blank">Sistema de gestão de serviços</a>:</strong>
         Simulação de um sistema de gestão de serviços, permitindo o cadastro, consulta e remoção de serviços, utilizando Java + JPA (Hibernate) e aplicando conceitos avançados de POO. Toda a aplicação funciona via console, com persistência dos dados em banco de dados através do EntityManager.
     </li>
 </ul>
