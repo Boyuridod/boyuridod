@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
-<p>Estudante de Engenharia de Computação com interesse em desenvolvimento de aplicações web, desktop e mobile, sistemas embarcados e maratonas de programação.</p>
+<p>Desenvolvedor fullstack em formação com experiência prática em desenvolvimento de software, interfaces web, aplicativos mobile e atuação em projetos reais. Vivência com React, JavaScript, SQL, Kotlin e metodologias ágeis. Perfil proativo, com experiência em liderança, comunicação e resolução de problemas.</p>
 
 <hr/>
 
