@@ -1,3 +1,8 @@
+<div align="right">
+      <a href="README.md" disabled="disabled">Português 🇧🇷</a>
+      <a href="README.en.md">English 🇺🇸</a>
+</div>
+
 <h1 align="center">👨‍💻 Olá, Sou o Yuri Duarte</h1>
 
 <p>Desenvolvedor fullstack em formação com experiência prática em desenvolvimento de software, interfaces web, aplicativos mobile e atuação em projetos reais. Vivência com React, JavaScript, SQL, Kotlin e metodologias ágeis. Perfil proativo, com experiência em liderança, comunicação e resolução de problemas.</p>
@@ -26,7 +31,7 @@
 <h2>🎓 Formação Acadêmica</h2>
 <p><strong>Engenharia de Computação</strong><br />
     Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico (IFTM CUPT)<br />
-    📅 Início: 2021 | Previsão de conclusão: 2025</p> -->
+    📅 Início: Fev. 2021 | Conclusão: Ago. 2026</p> -->
 
 <hr />
 
@@ -56,7 +61,7 @@
         Aplicativo Desktop que como objetivo auxiliar o usuário na criação de referências conforme as normas da ABNT;
     </li>
     <li><strong>🏨 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-6-RangeHotels" target="_blank">Projeto Site Range Hotels</a>:</strong>
-        Este projeto faz parte do curso SerFrontend e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela.
+        Este projeto faz parte do curso SerFrontend e consiste em um site responsivo para uma rede de hotéis. O foco foi praticar HTML5, CSS3 e responsividade para diferentes tamanhos de tela;
     </li>
     <li><strong>☕ <a href="https://github.com/Boyuridod/CheirinhoDeCafe" target="_blank">Projeto Cheirinho de Café</a>:</strong>
         App Android para gerenciamento de cafés dentro de uma fábrica;
@@ -80,19 +85,19 @@
         O objetivo foi criar um site para a escola fictícia Aprenser, aplicando conceitos de HTML e CSS com foco em layout e tipografia (Ainda não possui responsividade);
     </li>
     <li><strong>🧩 <a href="https://github.com/Boyuridod/Estagio-1-Curso-SerFrontend-Projeto-8-Componentes" target="_blank">Projeto meus componentes</a>:</strong>
-        O objetivo deste projeto é praticar a criação e estilização de componentes utilizando apenas HTML e CSS, explorando diferentes elementos e boas práticas de estruturação visual.
+        O objetivo deste projeto é praticar a criação e estilização de componentes utilizando apenas HTML e CSS, explorando diferentes elementos e boas práticas de estruturação visual;
     </li>
     <li><strong>🏦 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-3-conta-bancaria" target="_blank">Conta bancária usando POO</a>:</strong>
         Simulação de um aplicativo de conta bancária simples, aplicando conceitos fundamentais de Programação Orientada a Objetos em Java. Ele permite fazer saques e depósitos na conta.
     </li>
     <li><strong>👨‍💼 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-4-Lista-Funcionarios" target="_blank">Sistema simples de gerenciamento de funcionários</a>:</strong>
-        O objetivo deste aplicativo em Java é simular um sistema simples de gerenciamento de funcionários, permitindo o controle básico de dados como ID, nome e salário
+        O objetivo deste aplicativo em Java é simular um sistema simples de gerenciamento de funcionários, permitindo o controle básico de dados como ID, nome e salário;
     </li>
     <li><strong>🛒 <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-Exercicio-5-Venda-de-Produtos" target="_blank">Sistema simples de cadastro e exibição de produtos</a>:</strong>
-        O objetivo deste aplicativo é simular um sistema de cadastro e exibição de produtos, aplicando conceitos importantes de Herança e Polimorfismo em Java.
+        O objetivo deste aplicativo é simular um sistema de cadastro e exibição de produtos, aplicando conceitos importantes de Herança e Polimorfismo em Java;
     </li> 
     <li><strong>🗄️ <a href="https://github.com/Boyuridod/Estagio-1-Curso-Java-JDBC-Gestao-de-estoque" target="_blank">Sistema de gestão de estoque</a>:</strong>
-        Sistema de gestão de estoque desenvolvido em Java com JDBC, focado em operações básicas de persistência de dados, organização em camadas e boas práticas de acesso a banco relacional.
+        Sistema de gestão de estoque desenvolvido em Java com JDBC, focado em operações básicas de persistência de dados, organização em camadas e boas práticas de acesso a banco relacional;
     </li>
     <li><strong>🛠️ <a href="https://github.com/Boyuridod/Estagio-1-Java-Exercicio-JPA-Hibernate-Sistema-Gestao-Servicos" target="_blank">Sistema de gestão de serviços</a>:</strong>
         Simulação de um sistema de gestão de serviços, permitindo o cadastro, consulta e remoção de serviços, utilizando Java + JPA (Hibernate) e aplicando conceitos avançados de POO. Toda a aplicação funciona via console, com persistência dos dados em banco de dados através do EntityManager.
@@ -112,7 +117,7 @@
 
 <h2>🏆 Atividades e Competições</h2>
 <ul>
-    <li>Participação em maratonas de programação (ICPC, SBC);</li>
+    <li>Participação em maratonas de programação (ICPC & SBC);</li>
     <li>🥇 Tri-Campeão regional de Maratonas de Programação e três participações em finais nacionais;</li>
     <li>Participação em Hackathons;</li>
     <li>Desenvolvimento de soluções para problemas algorítmicos no Codeforces, Virtual Judge, etc.;</li>
